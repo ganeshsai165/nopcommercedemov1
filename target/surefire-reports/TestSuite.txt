@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 34.462 s <<< FAILURE! - in TestSuite
+com.nopecommercev1.testCases.TC_DDTlogintest_002.loginTest[admin@yourstore.com, admin1](2)  Time elapsed: 5.244 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.nopecommercev1.testCases.TC_DDTlogintest_002.loginTest(TC_DDTlogintest_002.java:48)
+
+com.nopecommercev1.testCases.TC_DDTlogintest_002.loginTest[admin1@yourstore.com, admin](3)  Time elapsed: 4.03 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.nopecommercev1.testCases.TC_DDTlogintest_002.loginTest(TC_DDTlogintest_002.java:48)
+
+com.nopecommercev1.testCases.TC_DDTlogintest_002.loginTest[admin1@yourstore.com, admin1](4)  Time elapsed: 5.242 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.nopecommercev1.testCases.TC_DDTlogintest_002.loginTest(TC_DDTlogintest_002.java:48)
+

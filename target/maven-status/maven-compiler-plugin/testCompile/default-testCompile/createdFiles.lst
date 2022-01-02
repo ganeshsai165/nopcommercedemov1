@@ -1,0 +1,7 @@
+com\nopecommercev1\pageObjects\loginPage_admin.class
+com\nopecommercev1\testCases\TC_DDTlogintest_002.class
+com\nopecommercev1\testCases\TC_logintest_001.class
+com\nopecommercev1\testCases\BaseClass.class
+com\nopecommercev1\utilities\ReadConfig.class
+com\nopecommercev1\utilities\XLUtils.class
+com\nopecommercev1\utilities\Reporting.class
